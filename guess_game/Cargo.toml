@@ -1,0 +1,9 @@
+[package]
+name = "guess_game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+solana-program = "1.10.38"
+borsh = "0.9"
+borsh-derive = "0.9"
