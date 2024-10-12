@@ -80,7 +80,7 @@ guess_game/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/solana-guess-game.git
+git clone https://github.com/NtemKenyor/just-guess.git
 cd solana-guess-game
 ```
 
