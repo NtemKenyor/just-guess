@@ -9,6 +9,14 @@ This contract can be extended to use cases such as:
 - Research experiments where users provide input to unlock results or rewards
 - Betting and gambling scenarios where correct predictions yield rewards
 
+
+## Table of Contents
+
+- [Inspiration](#inspiration)
+
+## Table of Contents
+
+- [Inspiration](#inspiration)
 This project demonstrates how to work with Solana smart contracts using Rust and interact with them using Node.js.
 
 ---
